@@ -1,0 +1,1 @@
+This is the first assignment of in IBM machine learning. It uses scikit to learn about linear regression models, as well as fiting and training a model
